@@ -79,7 +79,7 @@ go install -v github.com/projectdiscovery/nuclei/v3/cmd/nuclei@latest
   
 </details>
 
-**More installation [methods can be found here](https://nuclei.projectdiscovery.io/nuclei/get-started/).**
+**More installation [methods can be found here](https://docs.projectdiscovery.io/tools/nuclei/install).**
 
 <table>
 <tr>
